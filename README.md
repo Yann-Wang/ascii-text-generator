@@ -1,5 +1,7 @@
 #### ascii-text-generator
 
+[![NPM version](https://img.shields.io/npm/v/ascii-text-generator.svg)]()
+
 #### Installation
 in Node.js :
 ```shell
