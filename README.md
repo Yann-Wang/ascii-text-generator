@@ -75,12 +75,14 @@ console.log(ascii_text);
 //console.log(chalk.blue.bold.bgGreen(ascii_text)); // make output colorful by using chalk module
 
 // console
+```
 
+```html
  __   __  _|_      _|_   ___  \_' _|_  
 (__( |  '  |_,      |_, (__/_ / \  |_, 
                                        
-
 ```
+
 
 in Browser:
 - output text logo to html element content
