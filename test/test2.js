@@ -1,6 +1,7 @@
 /**
  * Created by a_wav on 2017/2/4.
  */
+'use strict';
 let ascii_text_generator = require('../');
 let chalk = require('chalk');
 

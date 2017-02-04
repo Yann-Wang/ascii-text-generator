@@ -133,4 +133,4 @@ node static-server.js
 ```
 
 #### Support
-Node.js 6-7, Chrome 55+, Opera 42+, Firefox 43+, IE7+
+Node.js 4.2+, Chrome 55+, Opera 42+, Firefox 43+, IE7+, Edge
