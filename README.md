@@ -8,7 +8,8 @@ npm install --save ascii-text-generator
 ```
 in Browser :
 ```html
-<script src="https://github.com/Yann-Wang/ascii-text-generator/atg.js"></script>
+<!-- when linking the file, suggest downloading this file and upload to your own cdn. -->
+<script src="http://okup5z621.bkt.clouddn.com/atg.js"></script>
 ```
 
 #### Usage
