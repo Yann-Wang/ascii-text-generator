@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0,user-scalable=no">
+    <title>Title</title>
+
+</head>
+<body>
+    <div>
+        <p id="ascii-text"></p>
+    </div>
+    <script src="../atg.js"></script>
+    <script>
+        var atg = window.ascii_text_generator;
+        var input_text = "art text";
+        var ascii_text =atg(input_text,"3");
+        var p = document.getElementById("ascii-text");
+
+        p.style.cssText = "white-space:pre; font:16px/1 monospace;";
+        p.innerHTML = ascii_text;
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "name": "ascii-text-generator",
+  "version": "1.0.0",
+  "description": "a light-weight npm module with which you can generate your ascii logo (art text). ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/Yann-Wang/ascii-text-generator",
+  "keywords": [
+    "art",
+    "text",
+    "ascii",
+    "symbol"
+  ],
+  "author": "gospray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yann-Wang/ascii-text-generator/issues"
+  },
+  "homepage": "https://github.com/Yann-Wang/ascii-text-generator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chalk": "^1.1.3",
+    "fs-extra": "^2.0.0",
+    "mocha": "^3.2.0"
+  }
+}
