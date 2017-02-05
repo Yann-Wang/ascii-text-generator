@@ -127,8 +127,8 @@ npm test
 ```
 in Browser:
 ```shell
-npm install -g static-server
 cd ascii-text-generator
+npm install
 node static-server.js
 # access http://localhost:3000/test/test_in_browser.html
 
