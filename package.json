@@ -1,7 +1,7 @@
 {
   "name": "ascii-text-generator",
-  "version": "1.0.0",
-  "description": "a light-weight npm module with which you can generate your ascii logo (art text). ",
+  "version": "1.0.2",
+  "description": "a light-weight npm module with which you can generate your ascii logo ( ascii text ), a kind of art text ",
   "main": "index.js",
   "directories": {
     "test": "test"
