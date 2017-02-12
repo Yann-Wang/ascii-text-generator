@@ -135,4 +135,4 @@ node static-server.js
 ```
 
 #### Support
-Node.js 4.2+, Chrome 55+, Opera 42+, Firefox 43+, IE7+, Edge
+Node.js 0.10.0-7.5.0, Chrome 55+, Opera 42+, Firefox 43+, IE7+, Edge
