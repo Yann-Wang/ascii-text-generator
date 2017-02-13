@@ -1,5 +1,7 @@
 #### ascii-text-generator
 
+[![NPM](https://nodei.co/npm/ascii-text-generator.png?downloads=true)](http://nodei.co/npm/ascii-text-generator/)
+
 [![NPM version](https://img.shields.io/npm/v/ascii-text-generator.svg)]()
 
 #### Installation
