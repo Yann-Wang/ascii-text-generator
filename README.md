@@ -4,6 +4,8 @@
 
 [![NPM version](https://img.shields.io/npm/v/ascii-text-generator.svg)]()
 
+Ascii-text-generator module make the character of a-z, 0-9 in the form of logo which is achieved by ascii characters. It can be used in web pages, console output, file header comments.
+
 #### Installation
 in Node.js :
 ```shell

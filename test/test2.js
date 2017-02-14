@@ -13,11 +13,7 @@ describe('#ascii-text-generator', function() {
         console.log(ascii_text);
         done();
     });
-});
 
-//chalk.blue.bgRed.bold('Hello world!');
-
-describe('#ascii-text-generator', function() {
     it('output colorful text logo to the console by using chalk npm module', function(done) {
         var input_text = "art text";
         var ascii_text =ascii_text_generator(input_text,"1");
@@ -26,3 +22,5 @@ describe('#ascii-text-generator', function() {
         done();
     });
 });
+
+//chalk.blue.bgRed.bold('Hello world!');

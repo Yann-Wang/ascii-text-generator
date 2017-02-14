@@ -22,9 +22,7 @@ describe('#ascii-text-generator', function() {
         });
 
     });
-});
 
-describe('#ascii-text-generator', function() {
     it('output text logo to the header of file', function(done) {
 
         var input_text = "art text";
@@ -39,3 +37,4 @@ describe('#ascii-text-generator', function() {
 
     });
 });
+
