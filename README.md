@@ -13,6 +13,9 @@ npm install --save ascii-text-generator
 
 ```
 in Browser :
+
+[see: asciitext](http://www.wsabstract.com/script/script2/asciitext.shtml)
+
 ```html
 <!-- when linking the file, suggest downloading this file and upload to your own cdn. -->
 <script src="http://okup5z621.bkt.clouddn.com/atg.min.js"></script>
